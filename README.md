@@ -22,4 +22,3 @@ Raw ultrasonic data is inherently noisy due to air turbulence and varied surface
 
 ## 👨‍💻 Author
 **Mostafa Eldeeb**
-Computer Engineering & Software Development
